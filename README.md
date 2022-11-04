@@ -3,7 +3,7 @@
 
 - **-Objective : As a Data Analyst, try to find out the prediction of score._**
                
-               - **What will be the predicted score if a student studies for 8.5 hours/day?**
+- **What will be the predicted score if a student studies for 8.5 hours/day?**
 
 ## TECHNOLOGIES AND LIBRARIES USED:
 
