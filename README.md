@@ -1,7 +1,7 @@
 # Coder-s-Ready-MIPP-Task-2--Machine Learning(student marks on study hours)
 >  **Task 2 - Student Hours/Marks**
 
-- **-Objective : 
+## Objective : 
 
 - Predict the percentage of a student based on the no. of study hours.
 
