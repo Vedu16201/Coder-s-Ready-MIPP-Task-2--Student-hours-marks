@@ -7,7 +7,7 @@
 
 ## TECHNOLOGIES AND LIBRARIES USED:
 
-- Python3, Pandas, Numpy, Matplotlib.pyplot, Seaborn.
+- Python3, Pandas, Numpy, Matplotlib.pyplot, Seaborn, Sklearn.
 
 ---
 
