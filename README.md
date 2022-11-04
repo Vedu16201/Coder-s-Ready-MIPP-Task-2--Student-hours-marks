@@ -1,5 +1,5 @@
 # Coder-s-Ready-MIPP-Task-2--Machine Learning(student marks on study hours)
->  **Task 2 - Student Hours/Marks**
+>  **Task 2 - ML (Student Data)**
 
 ## Objective : 
 
